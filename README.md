@@ -10,5 +10,5 @@ I have used the Flickr8k Dataset which is available on kaggle. It had around 8K 
 
 2. Language model: for generating captions corresponding to the image.
 
-3. Final model: concatenates the  results of both this model and uses LSTM layer.
+3. Final model: concatenates the  results of both this model and uses LSTM layer with pretrained glove.6B.50d embedding.
 
